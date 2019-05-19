@@ -4,11 +4,11 @@
 
 
 <p float="left">
-  <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/1.png?raw=true" width="170px"/>
-  <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/2.png?raw=true" width="170px"/>
-  <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/3.png?raw=true" width="170px"/>
-  <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/4.png?raw=true" width="170px"/>
-  <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/5.png?raw=true" width="170px"/>
+  <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/1.png?raw=true" width="160px"/>
+  <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/2.png?raw=true" width="160px"/>
+  <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/3.png?raw=true" width="160px"/>
+  <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/4.png?raw=true" width="160px"/>
+  <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/5.png?raw=true" width="160px"/>
 </p>
 
 
