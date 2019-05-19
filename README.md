@@ -1,6 +1,7 @@
 # Tune Audio Application 
 
-You can create vocals audio, customize with fun effects and share them with your friends!
+**YOU CAN CREATE VOICE AUDIO, CUSTOMIZE WITH FUN EFFECTS AND SHARE THEM WITH YOUR FRIENDS!**
+
 
 <p float="left">
   <img src="https://github.com/Gualberto-Vannini/tune-audio/blob/master/screenshots/1.png?raw=true" width="170px"/>
